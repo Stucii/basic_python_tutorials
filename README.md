@@ -1,2 +1,1 @@
-# mad_libs_tutorial1
-mad_libs_tutorial1
+# short basic tutorials for myself - 2020 
